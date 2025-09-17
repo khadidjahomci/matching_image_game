@@ -7,14 +7,6 @@
 
 ---
 
-## 🚀 المميزات
-- واجهة بسيطة وجذابة.
-- صور يتم تغييرها بشكل عشوائي عند الضغط.
-- رسالة فورية عند التطابق أو عدمه.
-- دعم للغة العربية.
-
----
-
 ## 🛠️ التقنيات المستعملة
 - `Random()` لتوليد أرقام عشوائية للصور.
 
@@ -28,14 +20,6 @@ A simple game developed using **Flutter** 🐦
 Game idea: the user taps the images until they match.  
 If they match ➝ a message appears "Well done! The images match",  
 otherwise ➝ "Try again".
-
----
-
-## 🚀 Features
-- Simple and attractive UI.
-- Images change randomly on tap.
-- Instant feedback message on match or mismatch.
-- Arabic language support.
 
 ---
 
