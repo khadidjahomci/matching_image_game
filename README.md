@@ -1,3 +1,6 @@
+![sc3](https://github.com/user-attachments/assets/1fbd7f08-b895-4058-b94a-c2d5dc628f69)
+![sc2](https://github.com/user-attachments/assets/ec981261-88b8-4b5f-8bef-deb9ef097df5)
+![sc1](https://github.com/user-attachments/assets/04c6fecd-6826-4b17-9f4a-5a83e1ebf212)
 # لعبة تطابق الصور 🎮🖼️
 
 لعبة بسيطة مطورة باستخدام **Flutter** 🐦  
